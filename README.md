@@ -6,6 +6,7 @@
 
 ```
 git clone https://github.com/yourname/streak;cd streak
+sudo npm install
 nano config.json
 node index `or` forever index `or` pm2 start index
 ```
