@@ -1,0 +1,25 @@
+{
+  "name": "ks",
+  "version": "1.0.0",
+  "description": "keep your streak",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dayuoba/streak.git"
+  },
+  "keywords": [
+    "streak"
+  ],
+  "author": "dayuoba",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dayuoba/streak/issues"
+  },
+  "homepage": "https://github.com/dayuoba/streak",
+  "dependencies": {
+    "keepstreak": "^1.0.0"
+  }
+}
