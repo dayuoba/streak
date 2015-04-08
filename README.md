@@ -3,9 +3,9 @@
 
 ###使用
 * 在你的电脑上或者免费的node engine上fork这个仓库
-* 
-```
-git clone https://github.com/dayuoba/streak;cd streak
+* ```
+git clone https://github.com/yourname/streak;cd streak
 nano config.json
 node index `or` forever index `or` pm2 start index
 ```
+
