@@ -1,0 +1,6 @@
+{
+	"username": "your_name",
+	"password": "your_password",
+	"remoteaddr": "github.com/your_name/your_repository",
+	"trackFile": "tracking/tracking.md"
+}
